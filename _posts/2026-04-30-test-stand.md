@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test Stand
+title: Static Fire Test Stand
 ---
 
 Zuko is a static fire test stand.
