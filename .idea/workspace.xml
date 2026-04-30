@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="271fb357-9073-4fa4-ab6b-40d4f809aaed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/test-stand.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/home.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/home.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-07-08-language-tests.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-07-08-very-very-very-long-title-and-very-very-very-short-content.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-07-09-post-example-with-headings-and-toc.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-01-08-code.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-03-04-soopr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-04-01-github-alerts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/test-stand.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2026-04-30-test-stand.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
