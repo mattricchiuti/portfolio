@@ -19,9 +19,9 @@ project_entries:
     url: test-stand
     desc: Supporting hotfires of experimental propulsion systems
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: In-house Composites Development
+    url: composites-development
+    desc: Developing NYU Rogue Aerospace's capability to manufacture composite aerostructures.
 
   - title: Project 3
     url: overview-post
