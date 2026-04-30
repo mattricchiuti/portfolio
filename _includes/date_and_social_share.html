@@ -1,6 +1,6 @@
 <p class="post-date text-bold">
   {% if page.author %}
-    <span class="text-upcase">{{ page.author }}</span> / 
+    <span class="text-upcase">{{ page.author }}</span> /
   {% endif %}
   {% if page.date %}
     <span class="text-upcase">{{ page.date | date: "%B %Y"}}</span>
@@ -16,11 +16,6 @@
   {% endunless %}
 {% endif %}
 </p>
-
-<div class="soopr-btn"
-   {% if site.twitter.username %}data-twitter="{{ site.twitter.username }}"{% endif %}
->
-</div>
 
 {% if site.theme_config.show_tags == true %}
   <div class="">
