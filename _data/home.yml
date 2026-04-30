@@ -1,12 +1,18 @@
 navbar_entries:
+  - title: home
+    url: /
+
+  - title: projects
+    url: projects
+
   - title: about
     url: about
 
-  - title: blog
-    url: blog
+  - title: resume
+    url: resume
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: gallery
+    url: gallery
 
 project_entries:
   - title: Project 1
@@ -38,7 +44,7 @@ project_entries:
 old_project_entries:
   - title: Soopr
     url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites
     highlight: NEW
 
   - title: Cookie
