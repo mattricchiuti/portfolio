@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="271fb357-9073-4fa4-ab6b-40d4f809aaed" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/_includes/date_and_social_share.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/date_and_social_share.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
