@@ -88,6 +88,8 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (3.1.0)
       sass-embedded (~> 1.75)
+    jekyll-seo-tag (2.8.0)
+      jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-soopr-seo-tag (2.7.3)
@@ -174,6 +176,7 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
+  jekyll-seo-tag
   moonwalk!
 
 BUNDLED WITH
