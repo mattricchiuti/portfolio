@@ -24,7 +24,7 @@ p { margin: 1.25em 0; }
 li { margin: 0.4em 0; }
 
 .w {
-  max-width: 720px;
+  max-width: 1100px;
   margin: 0 auto;
   padding: 4em 2em;
 }
@@ -111,7 +111,7 @@ html[data-theme="light"] { @include light-appearance; }
 @media (prefers-color-scheme: light) {
   body[data-theme="auto"] { @include light-appearance; }
 }
-  
+
 // -------------------------------------------- //
 
 html, body {
