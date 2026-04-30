@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="271fb357-9073-4fa4-ab6b-40d4f809aaed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/test-stand.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/home.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/home.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-07-08-language-tests.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-07-08-very-very-very-long-title-and-very-very-very-short-content.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-07-09-post-example-with-headings-and-toc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-01-08-code.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-03-04-soopr.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-04-01-github-alerts.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +28,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="3D3tx6326n5oOJ5Dzjd5133Gnk8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,7 +39,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/mattricchiuti/my-site"
+    "last_opened_file_path": "/Users/mattricchiuti/my-site/_posts"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
@@ -39,6 +50,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
