@@ -25,20 +25,20 @@ project_entries:
     desc: Developing NYU Rogue Aerospace's capability to manufacture composite aerostructures.
     image: /assets/images/airframe_whiteboard.jpeg
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: Liquid Rocket Engine
+    url: liquid-engine
+    desc: Ethanol/GOX liquid engine rated for 20 lbf.
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+  - title: Perseverance
+    url: perseverance
+    desc: NYU's first hybrid propellant rocket.
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
 
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  - title: Endurance
+    url: endurance
+    desc: NYU's fullscale solid propellant rocket.
+
+
+  - title: Pathfinder
+    url: pathfinder
+    desc: NYU Rogue Aerospace's subscale demonstrator vehicle.

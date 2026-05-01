@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="271fb357-9073-4fa4-ab6b-40d4f809aaed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2025-11-01-pathfinder.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2026-02-30-endurance.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2026-04-30-perseverance.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2026-05-01-liquid-engine.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/card_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/card_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/list.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/moonwalk.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/moonwalk.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/home.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/home.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/test-stand.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/test-stand.jpeg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

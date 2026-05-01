@@ -31,7 +31,7 @@ theme_config:
   show_code_copy: true # show copy button on code blocks
   show_progress_bar: true # show reading progress bar on posts
   show_back_to_top: true # show back-to-top button
-  show_post_nav: true # show prev/next links on posts
+  show_post_nav: false # show prev/next links on posts
   show_toc: true # allow per-post table of contents via toc: true front matter
   # options for "home" page
   home:
