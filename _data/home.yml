@@ -18,6 +18,7 @@ project_entries:
   - title: Static Fire Test Stand
     url: test-stand
     desc: Supporting hotfires of experimental propulsion systems
+    image: /assets/images/test-stand.jpg
 
   - title: In-house Composites Development
     url: composites-development
