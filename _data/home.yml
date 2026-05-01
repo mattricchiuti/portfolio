@@ -23,6 +23,7 @@ project_entries:
   - title: In-house Composites Development
     url: composites-development
     desc: Developing NYU Rogue Aerospace's capability to manufacture composite aerostructures.
+    image: /assets/images/airframe_whiteboard.jpeg
 
   - title: Project 3
     url: overview-post
