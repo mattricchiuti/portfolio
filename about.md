@@ -1,7 +1,9 @@
 ---
-layout: post
+layout: default
 title: About Me
 ---
+
+# About Me
 
 Mechanical Engineering Student @ NYU Tandon
 

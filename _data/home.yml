@@ -18,16 +18,16 @@ project_entries:
   - title: Static Fire Test Stand
     url: test-stand
     desc: Supporting hotfires of experimental propulsion systems
-    image: /assets/images/test-stand.jpeg
+    image: /assets/images/test_stand/test-stand.jpeg
 
   - title: In-house Composites Development
     url: composites-development
     desc: Developing NYU Rogue Aerospace's capability to manufacture composite aerostructures.
-    image: /assets/images/airframe_whiteboard.jpeg
+    image: /assets/images/composites/airframe_whiteboard.jpeg
 
   - title: Liquid Rocket Engine
     url: liquid-engine
-    desc: Ethanol/GOX liquid engine rated for 20 lbf.
+    desc: Liquid bipropellant (Nitrous-IPA) engine rated for 150 lbf.
 
   - title: Perseverance
     url: perseverance

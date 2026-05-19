@@ -409,7 +409,8 @@ div.highlighter-rouge:hover .code-copy {
 
 // -------------- MICRO-INTERACTIONS -------------- //
 @media (prefers-reduced-motion: no-preference) {
-  .page-content a:not(.tag):not(.card a) {
+  .page-content a:not(.tag):not(.card a),
+  .sticky-nav a {
     text-decoration: none;
     background-image: linear-gradient(var(--links), var(--links));
     background-size: 0% 1px;
@@ -417,7 +418,8 @@ div.highlighter-rouge:hover .code-copy {
     background-repeat: no-repeat;
     transition: background-size 0.3s ease;
   }
-  .page-content a:not(.tag):not(.card a):hover {
+  .page-content a:not(.tag):not(.card a):hover,
+  .sticky-nav a:hover {
     background-size: 100% 1px;
   }
 
@@ -443,3 +445,18 @@ html[data-theme="dark"] {
   scrollbar-color: var(--bg-secondary) var(--bg);
 }
 // ------------------------------------------------- //
+
+figcaption {
+  text-align: center;
+  font-size: 1.15em;
+  color: var(--text-primary);
+  margin-top: 0.4em;
+  font-family: "Inter", sans-serif;
+}
+
+.sticky-nav {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 4em 1em 0 1em;
+  margin-bottom: -4.5em;
+}

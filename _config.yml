@@ -3,7 +3,7 @@ author: Matt Ricchiuti
 url: https://mattricchiuti.com
 baseurl: ""
 description: >
-  Your description here — a sentence or two about who you are.
+  NYU mechanical engineering grad passionate about all things aerospace.
 permalink: /:slug
 
 twitter:
@@ -34,8 +34,9 @@ theme_config:
   show_post_nav: false # show prev/next links on posts
   show_toc: true # allow per-post table of contents via toc: true front matter
   # options for "home" page
+
   home:
-    title_projects: Projects
+    title_projects: "A few of the projects I've worked on:"
     title_misc_list: Details
     title_blog: Blog
     title_old_projects: Old Projects

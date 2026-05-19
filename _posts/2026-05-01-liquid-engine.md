@@ -3,4 +3,4 @@ layout: post
 title: Liquid Rocket Engine
 ---
 
-GOX/Ethanol engine rated for 20 lbf. 
+Liquid bipropellant (Nitrous-IPA) engine rated for 150 lbf. 

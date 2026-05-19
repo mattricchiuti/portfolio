@@ -1,6 +1,8 @@
 ---
-layout: post
+layout: default
 title: Gallery
 ---
+
+# Gallery
 
 Your gallery here.

@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: default
 title: Projects
 ---
 
-Your projects here.
+<h1>Projects</h1>
+{% include card_list.html collection=site.data.home.project_entries %}
