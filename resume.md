@@ -2,6 +2,5 @@
 layout: default
 title: Resume
 ---
-# Resume
 
-Your resume here.
+<iframe src="/assets/files/resume.pdf" width="100%" height="800px" style="border:none;"></iframe>

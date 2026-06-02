@@ -5,15 +5,11 @@ title: About Me
 
 # About Me
 
-Mechanical Engineering Student @ NYU Tandon
+Under Construction
 
-## Hi, I'm Matt Ricchiuti
+NYU Mechanical Engineering New Grad 
 
-[A paragraph about yourself — where you're from, what you studied, what you work on.]
 
-## What I Do
-
-[A paragraph about your skills, interests, or current work.]
 
 ## Contact
 

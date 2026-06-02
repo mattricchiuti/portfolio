@@ -3,7 +3,7 @@ layout: post
 title: Static Fire Test Stand
 ---
 
-Zuko is a static fire test stand.
+
 
 
 
@@ -24,7 +24,7 @@ Zuko is a static fire test stand.
 <div style="display:flex; gap:1em; margin-bottom:1.5em;">
   <figure style="width:50%; margin:0;">
     <img src="/assets/images/test_stand/ts_stock.jpeg" alt="description" style="width:100%;" />
-    <figcaption>McMaster order has arrived</figcaption>
+    <figcaption>Parts arranged before assembly</figcaption>
   </figure>
   <figure style="width:50%; margin:0;">
     <img src="/assets/images/test_stand/extrusion_cuts.jpeg" alt="description" style="width:100%;" />

@@ -28,6 +28,7 @@ project_entries:
   - title: Liquid Rocket Engine
     url: liquid-engine
     desc: Liquid bipropellant (Nitrous-IPA) engine rated for 150 lbf.
+    image: /assets/images/engine/cad.png
 
   - title: Perseverance
     url: perseverance
