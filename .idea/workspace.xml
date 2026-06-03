@@ -9,9 +9,9 @@
       <change beforePath="$PROJECT_DIR$/_data/home.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/home.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2026-04-30-composites-development.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2026-04-30-composites-development.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2026-04-30-test-stand.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2026-04-30-test-stand.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.md" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume.md" beforeDir="false" afterPath="$PROJECT_DIR$/resume.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/list.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/moonwalk.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/moonwalk.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/test_stand/bottom_square.jpeg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

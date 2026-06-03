@@ -24,14 +24,14 @@ ul.horizontal-list {
 .card {
   padding: 1em;
   border: 1px var(--text) solid;
-  width: calc(33.333% - 0.6em);
+  width: calc(33.333% - .6em);
   box-sizing: border-box;
   height: auto;
   text-align: center;
   font-size: 1em;
   align-items: center;
   background-color: var(--bg-secondary);
-  border-radius: 0.5em;
+  border-radius: 1em;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 
   &:hover {

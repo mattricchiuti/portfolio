@@ -19,7 +19,7 @@ title: In-house Composites Development
   </figure>
   <figure style="width:50%; margin:0;">
     <img src="/assets/images/composites/comptest_samples.jpeg" alt="description" style="width:100%;" />
-    <figcaption>Airframe samples await compression testing</figcaption>
+    <figcaption>Airframe samples awaiting compression testing</figcaption>
   </figure>
 </div>
 

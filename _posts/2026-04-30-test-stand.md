@@ -3,17 +3,17 @@ layout: post
 title: Static Fire Test Stand
 ---
 
-
-
-
-
+<p style="font-size:1.2em;">
+In order to validate and characterize NYU Rogue Aerospace's first hybrid propulsion system, 
+my senior design team and I created Zuko, a modular static fire test stand.
+</p>
 
 
 
 
 <figure style="margin:0 0 1.5em 0;">
-  <img src="/assets/images/test_stand/outside.jpeg" alt="description" style="width:100%; border-radius:1em;" />
-  <figcaption>Caption for main image</figcaption>
+  <img src="/assets/images/test_stand/outside.jpeg" alt="description" style="width:70%; border-radius:1em;" />
+  <figcaption></figcaption>
 </figure>
 
 
@@ -40,5 +40,16 @@ title: Static Fire Test Stand
   <figure style="width:50%; margin:0;">
     <img src="/assets/images/test_stand/thrust_block_mill.jpeg" alt="description" style="width:100%;" />
     <figcaption>Thrust block fixtured to manual mill</figcaption>
+  </figure>
+</div>
+
+<div style="display:flex; gap:1em; margin-bottom:1.5em;">
+  <figure style="width:50%; margin:0;">
+    <img src="/assets/images/test_stand/wj_gussets.jpeg" alt="description" style="width:100%;" />
+    <figcaption>Waterjetting gusset plates</figcaption>
+  </figure>
+  <figure style="width:50%; margin:0;">
+    <img src="/assets/images/test_stand/bottomsquare.jpeg" alt="description" style="width:100%;" />
+    <figcaption>Fully assembled bottom square</figcaption>
   </figure>
 </div>

@@ -248,6 +248,7 @@ div.highlighter-rouge:hover .code-copy {
   background: var(--bg-secondary);
   color: var(--text);
   text-decoration: none;
+  margin-top: 1em;
   transition: color 0.3s ease;
   &:hover { color: var(--links); }
   @media screen and (max-width: 600px) {

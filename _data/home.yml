@@ -20,26 +20,31 @@ project_entries:
     desc: Supporting hotfires of experimental propulsion systems
     image: /assets/images/test_stand/test-stand.jpeg
 
-  - title: In-house Composites Development
+  - title: Composites Development
     url: composites-development
-    desc: Developing NYU Rogue Aerospace's capability to manufacture composite aerostructures.
+    desc: Developing NYU Rogue Aerospace's capability to manufacture composite aerostructures
     image: /assets/images/composites/airframe_whiteboard.jpeg
-
-  - title: Liquid Rocket Engine
-    url: liquid-engine
-    desc: Liquid bipropellant (Nitrous-IPA) engine rated for 150 lbf.
-    image: /assets/images/engine/cad.png
 
   - title: Perseverance
     url: perseverance
-    desc: NYU's first hybrid propellant rocket.
+    desc: NYU's first hybrid propellant rocket
+    image: /assets/images/perseverance/percy.jpeg
+
+
+
+  - title: Liquid Rocket Engine
+    url: liquid-engine
+    desc: Liquid bipropellant (Nitrous-IPA) engine rated for 150 lbf
+    image: /assets/images/engine/cad.png
 
 
   - title: Endurance
     url: endurance
-    desc: NYU's fullscale solid propellant rocket.
+    desc: Rogue Aerospace's 2025-2026 fullscale solid propellant rocket
+    image: /assets/images/endurance/endur.jpeg
 
 
   - title: Pathfinder
     url: pathfinder
-    desc: NYU Rogue Aerospace's subscale demonstrator vehicle.
+    desc: Rogue Aerospace's 2025-2026 subscale demonstrator vehicle
+    image: /assets/images/pathfinder/path.jpeg
